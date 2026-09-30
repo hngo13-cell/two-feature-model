@@ -41,7 +41,7 @@ Model                         w0      w1 BMI      w2 Age             MSE        
 BMI-only Baseline        1178.18      394.33           -    140764214.67     11864.41    9172.30   0.0394
 Normal Equation         -6437.35      333.39      241.90    129359773.29     11373.64    9032.28   0.1173
 Gradient Descent        -6437.35      333.39      241.90    129359773.29     11373.64    9032.28   0.1173
-
+```
 ---
 
 # Setup Instructions
